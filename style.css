@@ -1,0 +1,41 @@
+header
+{
+    width: 100%;
+    margin-top: 30px;
+}
+
+nav
+{
+    display: inline-block;
+    width: 50%;   
+    float: right;
+    text-align: right;
+    word-spacing: 20px;
+}
+
+main
+{
+    margin-top: 200px;
+    width: 100%;    
+}
+
+#content
+{
+    width: 40%;
+    display: inline-block;
+    float: left;
+    padding: 0;
+}
+
+#image
+{
+    width: 60%;
+    display: inline-block;
+    float: left;
+}
+
+footer
+{
+    width:100% ;
+    text-align: right;
+}
