@@ -30,14 +30,14 @@ nav a{
 
 main{
     display: inline-block;
-    margin-top: 100px;
+    margin-top: 70px;
     width: 80%;    
     margin-left: 10%;
     margin-right: 10%;
 }
 
 #content{
-    width: 40%;
+    width: 45%;
     float: left;
     padding: 0;  
    
@@ -59,17 +59,18 @@ main{
 #content a:hover{
     background-color: blueviolet;
     color: white;
+    margin-top: 100px;
 }
 
 #image{
-    width: 60%;
+    width: 55%;
     float: left;
     padding: 0;
 }
 
 img{
-    width: 75%;
-    height: 75%;
+    width: 90%;
+    height: 90%;
 }
 
 footer{
@@ -89,7 +90,7 @@ footer p{
 hr{
     border: solid;
     color: blueviolet;
-    width: 20%;
+    width: 21%;
     float: left;
     padding: 0;
     margin-top: -55px;
@@ -103,6 +104,7 @@ hr{
 h1{
     font-size: 55px;
     padding: 0;
+    margin: 0;
 }
 
 p{
